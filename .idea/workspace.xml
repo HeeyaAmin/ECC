@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="441f3975-24fb-40a9-8e3a-7a99a77121a0" name="Changes" comment="commit first">
-      <change afterPath="$PROJECT_DIR$/cloud-resource-frontend/src/components/ComparisonResults.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-resource-frontend/src/components/ControlPanel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-resource-frontend/src/components/Dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpu_usage_analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Dataset with timestamp.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/dataset.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/GRU.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/GRU_lr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/lr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/lstm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ECC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ECC.iml" afterDir="false" />
+    <list default="true" id="441f3975-24fb-40a9-8e3a-7a99a77121a0" name="Changes" comment="commit 1.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/src/components/Dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-resource-frontend/src/components/Dashboard.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "HeeyaAmin"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HeeyaAmin&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/HeeyaAmin/ECC.git",
-    "accountId": "6bd6b6e8-c542-4d72-a9f1-1519ea814ebc"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HeeyaAmin/ECC.git&quot;,
+    &quot;accountId&quot;: &quot;6bd6b6e8-c542-4d72-a9f1-1519ea814ebc&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2opJf0YfDB2mxnYNZN5xNKlmfGE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -57,20 +46,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.GRU.executor": "Run",
-    "Python.GRU_lr.executor": "Run",
-    "Python.cpu_usage_analysis.executor": "Run",
-    "Python.lr.executor": "Run",
-    "Python.lstm.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/heeyaamin/PycharmProjects/ECC/dataset"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.GRU.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GRU_lr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cpu_usage_analysis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lstm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/heeyaamin/PycharmProjects/ECC/dataset&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/dataset" />
@@ -100,11 +89,20 @@
       <option name="project" value="LOCAL" />
       <updated>1731560795147</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit 1.2">
+      <option name="closed" value="true" />
+      <created>1731721147369</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731721147369</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit first" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit first" />
+    <MESSAGE value="commit 1.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 1.2" />
   </component>
 </project>
