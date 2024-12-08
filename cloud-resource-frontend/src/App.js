@@ -29,7 +29,6 @@ import Dashboard from './components/Dashboard';
 import ControlPanel from './components/ControlPanel';
 import ComparisonResults from './components/ComparisonResults';
 
-
 function App() {
 //    console.log("print")
     return (
