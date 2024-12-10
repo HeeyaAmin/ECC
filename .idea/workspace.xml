@@ -4,13 +4,62 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="441f3975-24fb-40a9-8e3a-7a99a77121a0" name="Changes" comment="commit 1.4">
+    <list default="true" id="441f3975-24fb-40a9-8e3a-7a99a77121a0" name="Changes" comment="commit 1.5">
+      <change afterPath="$PROJECT_DIR$/2. Comparison/models_comparison.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. predictive_vm_allocation_sim/Optimized_Broker_Linear_Regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. predictive_vm_allocation_sim/Predictive VM Allocation Simulator using Bidirectional LSTM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. predictive_vm_allocation_sim/Predictive VM Allocation Simulator using GRU + Linear Regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. predictive_vm_allocation_sim/Predictive VM Allocation Simulator using Linear Regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.1 Testing/Prediction and Allocation Testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.1 Testing/Real world testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.1 Testing/unit testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.2 Results/CloudSim Simulation Comparison.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.2 Results/Traditional vs. ML-Based Simulations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ML_Cloud_Optimization_Backend/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ML_Cloud_Optimization_Backend/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/Optimized_Broker_Linear_Regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/Prediction and Allocation Testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/Predictive VM Allocation Simulator using Bidirectional LSTM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/Predictive VM Allocation Simulator using GRU + Linear Regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/Predictive VM Allocation Simulator using Linear Regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/Real world testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/unit testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/home_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/simulation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/testing.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-resource-frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-resource-frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-resource-frontend/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/src/components/Dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-resource-frontend/src/components/Dashboard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-resource-frontend/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-resource-backend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/firebase-debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/src/components/ComparisonResults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/src/components/ControlPanel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/src/components/Dashboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-resource-frontend/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpu_usage_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML_Cloud_Optimization_Backend/01_cpu_usage_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML_Cloud_Optimization_Backend/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/GRU.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Modelling/GRU.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/GRU_lr.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Modelling/GRU_lr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/lr.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Modelling/lr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/lstm.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Modelling/lstm.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +70,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -50,24 +100,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.GRU.executor": "Run",
-    "Python.GRU_lr.executor": "Run",
-    "Python.cpu_usage_analysis.executor": "Run",
-    "Python.lr.executor": "Run",
-    "Python.lstm.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/heeyaamin/PycharmProjects/ECC/dataset",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python tests.Python tests in unit testing.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CloudSim Simulation Comparison.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GRU.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GRU_lr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Optimized_Broker_Linear_Regression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Prediction and Allocation Testing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Predictive VM Allocation Simulator using Bidirectional LSTM.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Predictive VM Allocation Simulator using GRU + Linear Regression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Predictive VM Allocation Simulator using Linear Regression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Real world testing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Traditional vs. ML-Based Simulations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cpu_usage_analysis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lstm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.models_comparison.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/heeyaamin/PycharmProjects/ECC/scripts&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scripts" />
+      <recent name="$PROJECT_DIR$/backend/ml_model" />
       <recent name="$PROJECT_DIR$/dataset" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/backend" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -118,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731749585365</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit 1.5">
+      <option name="closed" value="true" />
+      <created>1733683836083</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733683836083</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -126,6 +202,7 @@
     <MESSAGE value="commit 1.2" />
     <MESSAGE value="commit 1.3 axios in dashboad.js" />
     <MESSAGE value="commit 1.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 1.4" />
+    <MESSAGE value="commit 1.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 1.5" />
   </component>
 </project>

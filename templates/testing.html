@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Testing</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <h1>Testing</h1>
+    <form method="POST" action="/run_testing">
+        <label for="test_type">Select a test type:</label>
+        <select name="test_type" id="test_type" required>
+            <option value="prediction_allocation">Prediction and Allocation</option>
+            <option value="real_world_testing">Real-World Testing</option>
+            <option value="unit_testing">Unit Testing</option>
+        </select>
+        <button type="submit">Run Test</button>
+    </form>
+
+    <h2>Results:</h2>
+    <pre>
+        {{ results if results else "No test has been run yet." }}
+    </pre>
+
+    <a href="/">Back to Home</a>
+</body>
+</html>

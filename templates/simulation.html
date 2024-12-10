@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predictive VM Allocation Simulation</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <h1>Predictive VM Allocation Simulation</h1>
+    <form method="POST" action="/run_simulation">
+        <label for="simulation_type">Choose a simulation type:</label>
+        <select name="simulation_type" id="simulation_type" required>
+            <option value="linear">Linear Regression</option>
+            <option value="bilstm">Bidirectional LSTM</option>
+            <option value="gru">GRU + Linear Regression</option>
+        </select>
+        <button type="submit">Run Simulation</button>
+    </form>
+
+    <h2>Results:</h2>
+    <pre>
+        {{ results if results else "No simulation has been run yet." }}
+    </pre>
+
+    <a href="/">Back to Home</a>
+</body>
+</html>
